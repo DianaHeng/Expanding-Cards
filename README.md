@@ -6,3 +6,11 @@
 2. Save space <br>
 3. Create interactivity <br>
 4. Enhance visual design <br>
+
+<h2>Demo </h2>
+<div align="center">
+
+![Expanding Cards (2)](https://user-images.githubusercontent.com/82561944/221914896-d8de2e0e-c416-4da8-805c-5e37063c6ea3.gif)
+
+<div/>
+
